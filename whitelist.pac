@@ -243,6 +243,7 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"vllogic":1,
 "iqiyi-yongjiu":1,
 "gzspeedtest":1,
 "91wii":1,
